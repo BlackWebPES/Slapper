@@ -8,7 +8,7 @@ website: https://github.com/jojoe77777/Slapper
 
 commands:
   slapper:
-    description: Create a Slapper NPC, or edit an existing one!
+    description: create a slapper or edit an existing one
     usage: "/slapper [args]..."
     permission: slapper.command
   rca:
